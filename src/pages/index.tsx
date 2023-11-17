@@ -14,8 +14,8 @@ export default function Home() {
       style={{ textAlign: 'center' }}
     >
       <Box display="flex" gap="3" justifyContent="center" className="flex-wrap">
-        <Chip text="Aiven for PostgreSQL®" />
-        <Chip text="Aiven for Redis®*" />
+        <Chip text="Aiven for Good PostgreSQL®" />
+        <Chip text="Aiven for nice Redis®*" />
       </Box>
       <Typography.LargeHeading>
         Free Netlify quickstart recipe library app using Next.js, Prisma and Aiven
